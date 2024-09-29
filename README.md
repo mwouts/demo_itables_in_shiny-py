@@ -1,2 +1,7 @@
-# itable_widget_in_a_shiny_app
-The ITable widget in a Shiny for Python App
+# ITables in Shiny for Python: a Demo
+
+This repository contains example Python for Shiny applications that render
+Pandas DataFrames using [ITables](https://mwouts.github.io/itables).
+
+Access the demo at https://itables.shinyapps.io/itable_widget/
+
